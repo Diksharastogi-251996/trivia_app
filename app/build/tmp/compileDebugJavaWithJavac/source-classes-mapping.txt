@@ -1,0 +1,62 @@
+newquizeapp/data/UserDatabaseClient.java
+ newquizeapp.data.UserDatabaseClient
+newquizeapp/RegisterActivity.java
+ newquizeapp.RegisterActivity
+ newquizeapp.RegisterActivity$1
+ newquizeapp.RegisterActivity$2
+ newquizeapp.RegisterActivity$RegisterUserTask
+newquizeapp/MainActivity.java
+ newquizeapp.MainActivity
+ newquizeapp.MainActivity$1
+ newquizeapp.MainActivity$2
+newquizeapp/other/Convertor.java
+ newquizeapp.other.Convertor
+ newquizeapp.other.Convertor$1
+newquizeapp/other/SharedPref.java
+ newquizeapp.other.SharedPref
+com/sagarkhurana/quizenew/BuildConfig.java
+ com.sagarkhurana.quizenew.BuildConfig
+newquizeapp/other/Constants.java
+ newquizeapp.other.Constants
+newquizeapp/data/UserDao.java
+ newquizeapp.data.UserDao
+newquizeapp/data/User.java
+ newquizeapp.data.User
+ newquizeapp.data.User$1
+newquizeapp/FinalResultActivity.java
+ newquizeapp.FinalResultActivity
+ newquizeapp.FinalResultActivity$1
+ newquizeapp.FinalResultActivity$2
+ newquizeapp.FinalResultActivity$GetOverallPointsTask
+ newquizeapp.FinalResultActivity$SaveUserAttemptTask
+newquizeapp/data/Attempt.java
+ newquizeapp.data.Attempt
+ newquizeapp.data.Attempt$1
+newquizeapp/other/Utils.java
+ newquizeapp.other.Utils
+newquizeapp/data/UserWithAttempts.java
+ newquizeapp.data.UserWithAttempts
+ newquizeapp.data.UserWithAttempts$1
+newquizeapp/HistoryActivity.java
+ newquizeapp.HistoryActivity
+ newquizeapp.HistoryActivity$1
+ newquizeapp.HistoryActivity$AttemptCreatedTimeComparator
+ newquizeapp.HistoryActivity$GetAllUserAttemptTask
+newquizeapp/data/UserDatabase.java
+ newquizeapp.data.UserDatabase
+newquizeapp/LoginActivity.java
+ newquizeapp.LoginActivity
+ newquizeapp.LoginActivity$1
+ newquizeapp.LoginActivity$2
+ newquizeapp.LoginActivity$LoginUserTask
+newquizeapp/splashactivity.java
+ newquizeapp.splashactivity
+ newquizeapp.splashactivity$1
+newquizeapp/quizactivity.java
+ newquizeapp.quizactivity
+ newquizeapp.quizactivity$1
+ newquizeapp.quizactivity$2
+newquizeapp/adapter/HistoryAdapter.java
+ newquizeapp.adapter.HistoryAdapter
+ newquizeapp.adapter.HistoryAdapter$1
+ newquizeapp.adapter.HistoryAdapter$AttemptViewHolder
